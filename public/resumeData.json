@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Navjot Singh",
+    "occupation": "Frontend web Developer",
+    "description": "I'm a California based React Developer. Software Engineer && Full Stack React Developer by Day, Freelancer by Night..",
+    "image": "IG_navjot.jpeg",
+    "bio": "This is Navjot Singh. I am working as ReactJs developer, would love to work on React and other MERN technologies.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "navj08singh@gmail.com",
+    "phone": "+1 626 267 9047",
+    "address": {
+      "street": "6988 sweetleaf dr",
+      "city": "Fontana",
+      "state": "CA",
+      "zip": "92336"
+    },
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jotsandhu99/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nav.jotsandhu/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/navjot1107",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Guru Nanak Dev University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "July 2015",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Wells Fargo",
+        "title": "Software Engineer",
+        "years": "June 2018 - Present",
+        "description": "Building CEO legacy Apps for customers"
+      },
+      {
+        "company": "Alliance Data Services",
+        "title": "UI/Frontend developer",
+        "years": "April 2017 - May 2018",
+        "description": "Employee Payroll Management"
+      },
+      {
+        "company": "RATIOCINATIVE SOLUTIONS",
+        "title": "Javascript developer",
+        "years": "Sep 2015 - Feb 2017",
+        "description": "Internal web project"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Javacsript",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "5+ years of experience in designing and developing professional UI web applications using front-end technologies like React JS, REDUX, JavaScript, ES6, Object Oriented JavaScript, JQuery, HTML4/5, CSS2/3, Bootstrap, Media Query, AJAX, XML and JSON meeting with W3C standards."
+      },
+      {
+        "text": "Strong experience with Responsive web design principles using Bootstrap and several CSS features like Flexbox, Media query and Grid system."
+      },
+      {
+        "text": "Valuable experience in developing and preparing test cases for unit testing using Jest and Enzyme."
+      },
+      {
+        "text": "Experience in software development methodologies like Agile and Waterfall."
+      }
+    ]
+  }
+}
